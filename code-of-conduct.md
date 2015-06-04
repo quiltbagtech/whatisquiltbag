@@ -11,6 +11,12 @@ _Sooo...._
 Quiltbagnyc++ is a group trying to foster a respectful and accountable space. We want to provide guidelines and tools for being respectful, and in cases where that fails, guidelines and tools for being accountable. We acknowledge oppression exists in the world around us and we strive to avoid perpetuating these oppressions. We are working to remove barriers to participation for people who experience racism, sexism, misogyny, transphobia, transmisogyny, misogynoir, transmisogynoir, homophobia, femmephobia, classism, ageism, religious discrimination, ableism, fatphobia, and/or discrimination based on physical appearance, and avoid perpetuating these and other oppressions.
 
 #### What rules/ codes come out of them?
+* "If you get called out on something, apologize and learn from it" (via [Double Union](https://www.doubleunion.org/base_assumptions))
+* Consent is key: obtain it before touching, taking photography/video, using sexual imagery/language/attention.
+* Language that reinforces social structures of oppression will not be tolerated. 
+* Respect different communication styles. Don't dominate discussions; leave space for people who are more reserved.
+* No condescending behavior around technology skills. Approach people less experienced than you with generosity, not one-upsmanship.
+* No superfluous call-outs. Don’t call someone out just to increase your radical cred.
 
 =====
 
